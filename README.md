@@ -12,4 +12,4 @@ If you are an active Spark user, you'll be painfully aware of the pitfalls Spark
 
 In order to decide about noticable best-practices, this repository uses a voting scheme (implemented via [FeatHub](http://www.feathub.com)) to determine whether a suggested best-practice is a best-practice or merely a personal opinion.
 
-After a clear trend in the vote is visible, the owner(s) of this repo will push the best practice suggestions to the spark-it-up.md file.
+After a clear trend in the vote is visible, the owner(s) of this repo will push the best practice suggestions to the spark-best-practices.md file.
